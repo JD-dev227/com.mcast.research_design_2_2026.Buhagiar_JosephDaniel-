@@ -1,0 +1,371 @@
+TY  - BOOK
+AU  - Saunders, Mark
+AU  - Lewis, Philip
+AU  - Thornhill, Adrian
+CY  - Harlow
+ET  - 8
+PB  - Pearson Education
+PY  - 2019
+TI  - Research Methods for Business Students
+ER  -
+TY  - BOOK
+AU  - Bishop, Christopher M
+CY  - New York
+PB  - Springer
+PY  - 2006
+TI  - Pattern Recognition and Machine Learning
+ER  -
+TY  - GEN
+AU  - European Union
+PY  - 2018
+SP  - 1
+EP  - 88
+TI  - Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27~April 2016 on the Protection of Natural Persons
+with Regard to the Processing of Personal Data and on the Free
+Movement of Such Data (General Data Protection Regulation)
+ER  -
+TY  - BOOK
+AU  - Creswell, John W
+AU  - Creswell, J David
+CY  - Thousand Oaks, CA
+ET  - 5
+PB  - SAGE Publications
+PY  - 2018
+TI  - Research Design: Qualitative, Quantitative, and Mixed Methods Approaches
+ER  -
+TY  - GEN
+AU  - Kontson, Kimberly
+AU  - others
+DO  - 10.7303/SYN52540892
+PY  - 2024
+TI  - Wearables for Gait in Parkinson's Disease and Age-Matched Controls
+ER  -
+TY  - JOUR
+AU  - Hemmatpour, Masoud
+AU  - Ferrero, Renato
+AU  - Gandino Filippo
+and Montrucchio, Bartolomeo
+AU  - Rebaudengo, Maurizio
+DO  - 10.1155/2018/4750104
+PY  - 2018
+SP  - 4750104
+EP  - 4750104
+TI  - Nonlinear predictive threshold model for real-time abnormal gait detection
+T2  - Journal of Healthcare Engineering
+VL  - 2018
+ER  -
+TY  - JOUR
+AU  - Mannini, Andrea
+AU  - Trojaniello, Diana
+AU  - Cereatti Andrea
+and Sabatini, Angelo M
+DO  - 10.3390/s16010134
+IS  - 1
+PY  - 2016
+SP  - 134
+EP  - 134
+TI  - A machine learning framework for gait classification using inertial
+sensors: application to elderly, post-stroke and Huntington's
+disease patients
+T2  - Sensors
+VL  - 16
+ER  -
+TY  - JOUR
+AU  - Sejdić, Ervin
+AU  - Lowry, Kristin A
+AU  - Bellanca Jennica
+and Redfern, Mark S
+AU  - Brach, Jennifer S
+DO  - 10.1109/TNSRE.2013.2265887
+IS  - 3
+PY  - 2011
+SP  - 603
+EP  - 612
+TI  - A comprehensive assessment of gait accelerometry signals in time,
+frequency and time-frequency domains
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+VL  - 22
+ER  -
+TY  - JOUR
+AU  - Gao, Jing
+AU  - Gu, Peishang
+AU  - Ren, Qing
+AU  - Zhang, Jinde
+AU  - Song, Xin
+DO  - 10.1109/ACCESS.2019.2950254
+PY  - 2019
+SP  - 163180
+EP  - 163190
+TI  - Abnormal gait recognition algorithm based on LSTM-CNN fusion network
+T2  - IEEE Access
+VL  - 7
+ER  -
+TY  - JOUR
+AU  - Li, Y
+AU  - Zheng, L
+AU  - Wang, X
+AU  - Wang, Y
+DO  - 10.1109/JSEN.2018.2814994
+IS  - 10
+PY  - 2018
+SP  - 4234
+EP  - 4241
+TI  - Wearable sensor system for detecting gait parameters of abnormal gaits:
+a feasibility study
+T2  - IEEE Sensors Journal
+VL  - 18
+ER  -
+TY  - JOUR
+AU  - Parati, M
+AU  - Gallotta, M
+AU  - Muletti, M
+AU  - Pirola M.
+and Bellosta, D
+AU  - Tagliabue, N
+AU  - Bellafà M.
+and Ferrarin, M
+AU  - Frigo, E
+DO  - 10.3390/s22176392
+IS  - 17
+PY  - 2022
+SP  - 6392
+EP  - 6392
+TI  - Validation of pressure-sensing insoles in patients with Parkinson's
+disease during overground walking in single and cognitive dual-task
+conditions
+T2  - Sensors
+VL  - 22
+ER  -
+TY  - JOUR
+AU  - Duong, T H
+AU  - Nguyen, T D
+AU  - Vu, V H
+AU  - Duong, H T
+DO  - 10.1109/TNSRE.2023.3338519
+PY  - 2023
+SP  - 4916
+EP  - 4926
+TI  - Accurate COP trajectory estimation in healthy and pathological gait
+using multimodal instrumented insoles and deep learning models
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+VL  - 31
+ER  -
+TY  - JOUR
+AU  - Liu, D
+AU  - Pei, X
+AU  - Meng, C
+AU  - Gao, Z
+AU  - Wang, Z
+DO  - 10.1063/5.0056893
+PY  - 2021
+SP  - 74102
+EP  - 74102
+TI  - Gait phase detection based on inertial measurement unit and
+force-sensitive resistors embedded in a shoe
+T2  - Review of Scientific Instruments
+VL  - 92
+ER  -
+TY  - JOUR
+AU  - Manupibul, U
+AU  - Tanthuwapathom, W
+AU  - Jarumethitanont W.
+and Kaimuk, W
+AU  - Limroongreungrat, A
+AU  - Charoensuk, S
+DO  - 10.1038/s41598-023-37761-2
+PY  - 2023
+SP  - 10653
+EP  - 10653
+TI  - Integration of force and IMU sensors for developing low-cost portable
+gait measurement system in lower extremities
+T2  - Scientific Reports
+VL  - 13
+ER  -
+TY  - JOUR
+AU  - Negi, S
+AU  - Kumar, Y
+AU  - Mishra, V M
+DO  - 10.1108/SR-10-2020-0249
+IS  - 3
+PY  - 2021
+SP  - 340
+EP  - 352
+TI  - FSR and IMU sensors-based human gait phase detection and its
+correlation with EMG signal for different terrain walk
+T2  - Sensor Review
+VL  - 41
+ER  -
+TY  - JOUR
+AU  - Losing, V
+AU  - Hasenjäger, D
+DO  - 10.1038/s41597-022-01580-3
+PY  - 2022
+SP  - 473
+EP  - 473
+TI  - Multi-modal gait database of natural everyday-walk in an urban environment
+T2  - Scientific Data
+VL  - 9
+ER  -
+TY  - JOUR
+AU  - Tsakanikas, V D
+AU  - Ntanis, E
+AU  - Rigas, D
+AU  - Tachos L.
+and Votis, K
+AU  - Tzovaras, D
+DO  - 10.3390/s23083902
+IS  - 8
+PY  - 2023
+SP  - 3902
+EP  - 3902
+TI  - Evaluating gait impairment in Parkinson's disease from instrumented
+insole and IMU sensor data
+T2  - Sensors
+VL  - 23
+ER  -
+TY  - JOUR
+AU  - Bamberg, S J M
+AU  - Benbasat, A Y
+AU  - Scarborough D. M.
+and Krebs, D E
+AU  - Paradiso, J A
+DO  - 10.1109/TITB.2007.899493
+IS  - 4
+PY  - 2008
+SP  - 413
+EP  - 423
+TI  - Gait analysis using a shoe-integrated wireless sensor system
+T2  - IEEE Transactions on Information Technology in Biomedicine
+VL  - 12
+ER  -
+TY  - JOUR
+AU  - Rouhani, H
+AU  - Favre, J
+AU  - Crevoisier, X
+AU  - Aminian, K
+DO  - 10.1016/J.JBIOMECH.2014.02.027
+IS  - 7
+PY  - 2014
+SP  - 1704
+EP  - 1711
+TI  - A wearable system for multi-segment foot kinetics measurement
+T2  - Journal of Biomechanics
+VL  - 47
+ER  -
+TY  - JOUR
+AU  - Benjamini, Yoav
+AU  - Hochberg, Yosef
+IS  - 1
+PB  - Wiley Online Library
+PY  - 1995
+SP  - 289
+EP  - 300
+TI  - Controlling the false discovery rate: a practical and powerful approach to multiple testing
+T2  - Journal of the Royal Statistical Society: Series B (Methodological)
+VL  - 57
+ER  -
+TY  - RPRT
+AU  - World Health Organization
+CY  - Geneva
+PY  - 2023
+TI  - Parkinson disease: a public health priority
+UR  - https://www.who.int/news-room/fact-sheets/detail/parkinson-disease
+ER  -
+TY  - BOOK
+AU  - Cohen, Jacob
+CY  - New York
+ET  - 2nd
+PB  - Routledge
+PY  - 1988
+TI  - Statistical power analysis for the behavioral sciences
+ER  -
+TY  - JOUR
+AU  - Mancini, Martina
+AU  - Horak, Fay B
+AU  - Zampieri, Christopher
+AU  - Dumane, Patrick
+AU  - Chiari, Lorenzo
+AU  - Rosenfeld, Jeffrey P
+IS  - 1
+PB  - Elsevier
+PY  - 2012
+SP  - 85
+EP  - 89
+TI  - ISway: a sensitive, valid and reliable measure of postural control in Parkinson's disease
+T2  - Gait & Posture
+VL  - 35
+ER  -
+TY  - JOUR
+AU  - Podsiadlo, Diane
+AU  - Richardson, Sandra
+IS  - 2
+PB  - Wiley Online Library
+PY  - 1991
+SP  - 142
+EP  - 148
+TI  - The timed “Up & Go”: a test of basic functional mobility for frail elderly persons
+T2  - Journal of the American Geriatrics Society
+VL  - 39
+ER  -
+TY  - JOUR
+AU  - Bandt, Christoph
+AU  - Pompe, Bernd
+IS  - 17
+PB  - APS
+PY  - 2002
+SP  - 174102
+EP  - 174102
+TI  - Permutation entropy: a natural complexity measure for time series
+T2  - Physical Review Letters
+VL  - 88
+ER  -
+TY  - JOUR
+AB  - Falls are a significant threat to the health and independence of elderly people and represent an enormous burden on the healthcare system. Successfully predicting falls could be of great help, yet this requires a timely and accurate fall risk assessment. Gait abnormalities are one of the best predictive signs of underlying locomotion conditions and precursors of falls. The advent of wearable sensors and wrist‐worn devices provides new opportunities for continuous and unobtrusive monitoring of gait during daily activities, including the identification of unexpected changes in gait. To this end, we present in this paper a novel method for determining gait abnormalities based on a wrist‐worn device and a deep neural network. It integrates convolutional and bidirectional long short‐term memory layers for successful learning of spatiotemporal features from multiple sensor signals. The proposed method was evaluated using data from 18 subjects, who recorded their normal gait and simulated abnormal gait while wearing impairment glasses. The data consist of inertial measurement unit (IMU) sensor signals obtained from smartwatches that the subjects wore on both wrists. Numerous experiments showed that the proposed method provides better results than the compared methods, achieving 88.9% accuracy, 90.6% sensitivity, and 86.2% specificity in the detection of abnormal walking patterns using data from an accelerometer, gyroscope, and rotation vector sensor. These results indicate that reliable fall risk assessment is possible based on the detection of walking abnormalities with the use of wearable sensors on a wrist.
+AU  - Kiprijanovska, Ivana
+AU  - Gjoreski, Hristijan
+AU  - Gams, Matjaž
+DA  - 2020/5//
+DO  - 10.3390/s20185373
+IS  - 18
+KW  - Balance deficit
+KW  - Deep learning
+KW  - Fall risk assessment
+KW  - Gait abnormalities
+KW  - Inertial sensors
+KW  - Information fusion
+KW  - Smartwatch
+PB  - MDPI AG
+PY  - 2020
+SP  - 1
+EP  - 21
+TI  - Detection of gait abnormalities for fall risk assessment using wrist‐worn inertial sensors and deep learning
+T2  - Sensors (Switzerland)
+VL  - 20
+ER  -
+TY  - CONF
+AU  - Chen, M
+AU  - Huang, B
+AU  - Xu, Y
+CY  - Pasadena, CA, USA
+DO  - 10.1109/ROBOT.2008.4543503
+PY  - 2008
+SP  - 2019
+EP  - 2024
+TI  - Intelligent shoes for abnormal gait detection
+T2  - Proceedings of the IEEE International Conference on Robotics and Automation
+ER  -
+TY  - CONF
+AU  - Potluri, S
+AU  - Ravuri, A
+AU  - Diedrich, C
+AU  - Schega, M
+CY  - Berlin, Germany
+DO  - 10.1109/EMBC.2019.8856454
+PY  - 2019
+SP  - 3613
+EP  - 3619
+TI  - Deep learning based gait abnormality detection using wearable sensor system
+T2  - Proceedings of the 41st Annual International Conference of the
+IEEE Engineering in Medicine and Biology Society (EMBC)
+ER  -

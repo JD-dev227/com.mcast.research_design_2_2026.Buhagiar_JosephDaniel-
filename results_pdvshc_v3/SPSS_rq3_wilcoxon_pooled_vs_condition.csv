@@ -1,0 +1,13 @@
+Model,Condition,N_paired,Pooled_mean_F1,Single_mean_F1,Wilcoxon_W,p_value,sig
+RBF_SVM,SelfPace,72,0.5757,0.6389,223.0,0.0517,ns
+RBF_SVM,TUG,72,0.5711,0.7639,148.5,0.0004,***
+RBF_SVM,TandemGait,72,0.585,0.6111,421.0,0.3861,ns
+RBF_SVM,HurriedPace,59,0.545,0.6441,194.0,0.0461,*
+RandomForest,SelfPace,72,0.5345,0.6528,173.0,0.0023,**
+RandomForest,TUG,72,0.5345,0.6944,156.0,0.001,***
+RandomForest,TandemGait,72,0.5449,0.6389,339.0,0.067,ns
+RandomForest,HurriedPace,59,0.5158,0.5593,297.5,0.1947,ns
+MLP,SelfPace,72,0.4921,0.6528,303.5,0.0004,***
+MLP,TUG,72,0.5014,0.7083,238.0,0.0001,***
+MLP,TandemGait,72,0.5153,0.6111,451.5,0.0191,*
+MLP,HurriedPace,59,0.4531,0.6102,289.5,0.0035,**

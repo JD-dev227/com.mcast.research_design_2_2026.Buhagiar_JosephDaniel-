@@ -1,0 +1,4 @@
+Experiment,Model,Accuracy,Balanced_Accuracy,Macro_F1,Sensitivity,Specificity,PD_F1,Precision_PD,AUC
+Pooled,RBF_SVM,0.6764,0.6763,0.6763,0.6835,0.6691,0.681,0.6786,0.724
+Pooled,RandomForest,0.6473,0.6477,0.6468,0.6043,0.6912,0.634,0.6667,0.7427
+Pooled,MLP,0.6327,0.6337,0.6304,0.5468,0.7206,0.6008,0.6667,0.7312
